@@ -1,0 +1,49 @@
+/*GENERAL STYLING*/
+
+html{
+    font-size: 16px;
+    background-color: black;
+    color: rgb(204, 204, 204);
+    text-shadow: .75px .75px rgb(29, 29, 29);
+}
+
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium',sans-serif;
+    background-color: rgb(31, 29, 29);
+    color: rgb(250, 250, 250);
+}
+
+h2{
+    text-shadow: 1.5px 1.5px 1px rgb(29, 29, 29);
+}
+
+body{
+    background-color: rgb(49, 49, 49);
+    width: 75%;
+    border-radius: 2%;
+    padding: 1%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 .1em 1em rgb(34, 34, 34);
+}
+
+main{
+    padding: 1%;
+    padding-top: 0%;
+}
+
+footer{
+    font-variant: small-caps;
+    position: absolute;
+    bottom: 0;
+    color: rgb(250, 250, 250);
+    text-shadow: .75px .75px rgb(44, 44, 44);
+    font-size: .75em;
+}
+
+/* 
+LA COUNTY COORDINATES
+=========================
+{34.0522° N, 118.2437° W} 
+*/
